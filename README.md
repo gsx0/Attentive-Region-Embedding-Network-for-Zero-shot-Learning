@@ -1,7 +1,9 @@
 # Attentive Region Embedding Network for Zero-shot Learning
 ## For reproducing purpose on CUB:PS ZSL results!
 
-![](../master/flow_chart.pdf)
+![](../master/fig2_v711.png)
+
+
 1. This code is used for reproducing the results in our CVPR 2019 paper:  Attentive Region Embedding Network for Zero-shot Learning
 
 2. The style of the codes is the same as the ImageNet training example in official Pytorch website. 
