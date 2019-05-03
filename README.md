@@ -1,5 +1,8 @@
-# Attentive-Region-Embedding-Network-for-Zero-shot-Learning
-for reproducing purpose on CUB:PS ZSL results!
+# Attentive Region Embedding Network for Zero-shot Learning
+For reproducing purpose on CUB:PS ZSL results!
+
+![](../master/flow_chat.pdf)
+
 
 1. This code is used for reproducing the results in our CVPR 2019 paper:  Attentive Region Embedding Network for Zero-shot Learning
 
