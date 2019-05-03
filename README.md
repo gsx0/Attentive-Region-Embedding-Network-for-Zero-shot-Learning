@@ -7,3 +7,5 @@ for reproducing purpose on CUB:PS ZSL results!
 
 3. If you use our code, please cite our paper: Guo-Sen Xie et al., Attentive Region Embedding Network for Zero-shot Learning, in
 CVPR19.
+
+4. Contact: gsxiehm@gmail.com
