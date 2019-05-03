@@ -1,4 +1,4 @@
-# Attentive Region Embedding Network for Zero-shot Learning
+# Attentive Region Embedding Network for Zero-shot Learning (CVPR 2019)
 ## For reproducing purpose on CUB:PS ZSL results!
 
 ![](../master/fig2_v711.png)
