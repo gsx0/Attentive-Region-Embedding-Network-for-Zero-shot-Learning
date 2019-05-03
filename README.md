@@ -11,6 +11,6 @@
 3. If you use our code, please cite our paper: Guo-Sen Xie et al., Attentive Region Embedding Network for Zero-shot Learning, in
 CVPR19.
 
-4. As an example, We provide a trained model (xxxxxx) of ARE on CUB:PS setting for ZSL. The default parameters in main.py will achieve 72.7% ZSL result on CUB.
+4. As an example, We provide a trained model (https://drive.google.com/file/d/1EIuOPi0MjdKUD7mtKlFkbaMF7tCsYedV/view?usp=sharing) of ARE on CUB:PS setting for ZSL. The default parameters in main.py will achieve 72.7% ZSL result on CUB.
 
 5. Contact: gsxiehm@gmail.com
